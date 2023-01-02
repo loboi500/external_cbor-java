@@ -1,18 +1,3 @@
-name: "cbor-java"
-description:
-    "A Java 7 implementation of RFC 7049: Concise Binary Object Representation "
-    "(CBOR)"
-
-third_party {
-  url {
-    type: HOMEPAGE
-    value: "https://github.com/c-rack/cbor-java"
-  }
-  url {
-    type: GIT
-    value: "https://github.com/c-rack/cbor-java.git"
-  }
-  version: "v0.8"
-  last_upgrade_date { year: 2020 month: 1 day: 6 }
-  license_type: NOTICE
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:76d6910e95a96e7e63135a51ab9f285655152b37add1e5c8cfe962308c41c647
+size 393
